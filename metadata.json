@@ -1,0 +1,5 @@
+{
+  "name": "Agent Email Manager",
+  "description": "A technical dashboard to create, manage, and read temporary mailboxes using the agent-email CLI.",
+  "requestFramePermissions": []
+}
